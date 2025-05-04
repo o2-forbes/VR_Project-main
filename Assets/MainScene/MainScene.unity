@@ -20856,6 +20856,10 @@ PrefabInstance:
       propertyPath: m_MoveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2736478854845186207, guid: 65eb6b98091a5734ba9d9ca871cef69a, type: 3}
+      propertyPath: m_EnableStrafe
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2853412522427425234, guid: 65eb6b98091a5734ba9d9ca871cef69a, type: 3}
       propertyPath: m_InteractionManager
       value: 
@@ -70301,7 +70305,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: bcd99f0254dccd54c8df39026ef636ca, type: 3}
   m_Resource: {fileID: 8300000, guid: bcd99f0254dccd54c8df39026ef636ca, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.9
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
